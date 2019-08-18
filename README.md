@@ -1,2 +1,0 @@
-# geoportal
-Proyecto IGG-CIGEO 
